@@ -2131,7 +2131,7 @@ input[type='checkbox'] {
 
 .announcement-bar,
 .announcement-bar__announcement {
-  color: rgb(var(--color-foreground));
+  color: #fffffc;
   width: 100%;
   height: 100%;
   display: flex;
